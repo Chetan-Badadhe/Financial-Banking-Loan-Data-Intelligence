@@ -65,19 +65,21 @@ Insight Generation & Reporting: Analyzed data to derive actionable insights and 
 
 
 ## Tools and use case
-I used a combination of Excel, SQL, and Power BI:
+I leveraged a combination of Excel, Oracle SQL Developer, and Power BI to analyze the loan dataset:
 
-In Excel, I cleaned the raw CSV data, handled missing values, and did initial exploration.
+In Excel, I cleaned raw CSV data, handled missing values, and performed initial exploratory analysis.
 
-Using SQL, I wrote queries to extract KPIs like monthly loan applications, funded amounts, and average DTI. I also used SQL to validate the backend data logic powering the dashboard.
+Using SQL, I extracted and validated KPIs such as monthly loan applications, funded amounts, and average DTI, ensuring data accuracy for the dashboard.
 
-Finally, I used Power BI to design a 3-page dashboard:
+With Power BI, I created an interactive 3-page dashboard:
 
-Summary for high-level KPIs,
+Summary: High-level KPIs at a glance
 
-Overview for monthly and regional trends,
+Overview: Monthly and regional trends
 
-Details for deeper insights like loan purposes, employment length, and home ownership.
+Details: In-depth insights on loan purposes, employment length, and home ownership
+
+This workflow enabled end-to-end analysis, from raw data to actionable insights.
 
 
 
