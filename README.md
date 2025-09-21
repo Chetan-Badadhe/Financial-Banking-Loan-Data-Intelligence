@@ -84,13 +84,8 @@ Details for deeper insights like loan purposes, employment length, and home owne
 ## Conclusion
 The dashboard offered valuable insights:
 
-Highlighted that the majority of loans were issued in states such as California and Texas.
-
-Revealed that performing loans significantly outnumbered non-performing loans.
-
-Showed that customers with longer employment histories tended to have lower default rates.
-
-These findings enable the bank to enhance risk assessment and focus on the most suitable customer segments.
+Highlighted that the majority of loans were issued in states such as California and Texas. Revealed that performing loans significantly outnumbered non-performing loans.
+Showed that customers with longer employment histories tended to have lower default rates. These findings enable the bank to enhance risk assessment and focus on the most suitable customer segments.
 
 #### Attachments
 - Bank Loan Report
