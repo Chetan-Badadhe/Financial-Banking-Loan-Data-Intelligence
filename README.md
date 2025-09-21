@@ -52,7 +52,7 @@ Insight Generation & Reporting: Analyzed data to derive actionable insights and 
 4) Grade
 5) State
 
-#### so the whole dashboard will change for the slicer
+#### So the whole dashboard will change for the slicer
 
 ### 3)Details
 <img width="904" height="509" alt="details dashboard" src="https://github.com/user-attachments/assets/47ae62af-b4a7-422c-987b-e582234ab794" />
